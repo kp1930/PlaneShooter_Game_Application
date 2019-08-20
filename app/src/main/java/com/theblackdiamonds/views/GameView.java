@@ -1,4 +1,4 @@
-package theblackdiamonds.com.views;
+package com.theblackdiamonds.views;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -19,14 +19,14 @@ import android.view.Display;
 import android.view.MotionEvent;
 import android.view.View;
 
-import java.util.ArrayList;
+import com.theblackdiamonds.R;
+import com.theblackdiamonds.activities.GameOverActivity;
+import com.theblackdiamonds.utils.Explosion;
+import com.theblackdiamonds.utils.Missile;
+import com.theblackdiamonds.utils.Plane;
+import com.theblackdiamonds.utils.Plane2;
 
-import theblackdiamonds.com.R;
-import theblackdiamonds.com.activities.GameOverActivity;
-import theblackdiamonds.com.utils.Explosion;
-import theblackdiamonds.com.utils.Missile;
-import theblackdiamonds.com.utils.Plane;
-import theblackdiamonds.com.utils.Plane2;
+import java.util.ArrayList;
 
 /**
  * Created by Kush Pandya on 8/20/2019.

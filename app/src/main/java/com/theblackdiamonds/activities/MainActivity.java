@@ -1,4 +1,4 @@
-package theblackdiamonds.com.activities;
+package com.theblackdiamonds.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -7,7 +7,7 @@ import android.view.View;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import theblackdiamonds.com.R;
+import com.theblackdiamonds.R;
 
 public class MainActivity extends AppCompatActivity {
 

@@ -1,10 +1,10 @@
-package theblackdiamonds.com.utils;
+package com.theblackdiamonds.utils;
 
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 
-import theblackdiamonds.com.R;
+import com.theblackdiamonds.R;
 
 /**
  * Created by Kush Pandya on 8/20/2019.

@@ -1,4 +1,4 @@
-package theblackdiamonds.com.activities;
+package com.theblackdiamonds.activities;
 
 import android.os.Bundle;
 import android.view.Window;
@@ -7,7 +7,7 @@ import android.view.WindowManager;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
-import theblackdiamonds.com.views.GameView;
+import com.theblackdiamonds.views.GameView;
 
 public class StartGameActivity extends AppCompatActivity {
 

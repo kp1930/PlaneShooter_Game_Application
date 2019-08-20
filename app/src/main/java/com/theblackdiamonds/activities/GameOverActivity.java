@@ -1,4 +1,4 @@
-package theblackdiamonds.com.activities;
+package com.theblackdiamonds.activities;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
@@ -10,9 +10,9 @@ import android.widget.TextView;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
-import java.util.Objects;
+import com.theblackdiamonds.R;
 
-import theblackdiamonds.com.R;
+import java.util.Objects;
 
 public class GameOverActivity extends AppCompatActivity {
 

@@ -1,13 +1,13 @@
-package theblackdiamonds.com.utils;
+package com.theblackdiamonds.utils;
 
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 
-import java.util.Random;
+import com.theblackdiamonds.R;
+import com.theblackdiamonds.views.GameView;
 
-import theblackdiamonds.com.R;
-import theblackdiamonds.com.views.GameView;
+import java.util.Random;
 
 /**
  * Created by Kush Pandya on 8/20/2019.
